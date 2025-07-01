@@ -18,7 +18,7 @@ Accurate rainfall prediction is crucial for sectors like agriculture, water mana
 
 ## 🔍 Dataset
 
-- **Source:** [Rain in Australia - Kaggle](https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package)
+- **Source:** (https://github.com/amankharwal/Website-data/blob/master/weatherAUS.csv)
 - **Description:** Daily weather observations from multiple Australian locations.
 - **Target Variable:** `RainTomorrow` (`Yes` or `No`)
 
