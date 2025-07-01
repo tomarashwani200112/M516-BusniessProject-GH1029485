@@ -1,15 +1,20 @@
 🌧️ Rain Prediction using Machine Learning
+
 This project aims to build a predictive model to determine whether it will rain tomorrow based on historical weather data. It uses supervised machine learning techniques, with a focus on exploratory data analysis, feature engineering, and model evaluation.
 
 📁 Project Structure
 bash
 Copy
 Edit
+
+
 Rain_Prediction/
 │
 ├── Rain_Prediction.ipynb       # Jupyter notebook with full pipeline
 ├── README.md                   # Project overview and instructions
 └── dataset/                    # Folder to place dataset (not included due to size)
+
+
 📌 Problem Statement
 Accurate rain prediction is essential for planning and safety in sectors like agriculture, aviation, and disaster management. This project uses a weather dataset to build a classifier that predicts whether it will rain the next day.
 
